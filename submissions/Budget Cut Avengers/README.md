@@ -48,5 +48,5 @@ Smart Communities & Public Services
 - **Tailwind CSS & Open-Source Libraries:** Utilized for rapid, accessible, and high-performance UI components.
 
 ## 📂 Project Repository & Live Demo
-- **Live Production URL:** [https://civic-sense-quby4zkfic-noor-3441.vercel.app](https://civic-sense-quby4zkfic-noor-3441.vercel.app)
+- **Live Production URL:** [https://civic-sense-complaints.vercel.app](https://civic-sense-complaints.vercel.app)
 - **GitHub Code Repository:** https://github.com/Mahnoor-atta/CivicSense
